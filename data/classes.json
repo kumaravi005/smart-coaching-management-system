@@ -1,0 +1,47 @@
+[
+  {
+    "id": "c1",
+    "subject": "Math 9",
+    "students": 20,
+    "priority": 2,
+    "allowed_merge_with": ["Math 10", "Science 9"],
+    "not_allowed_with": ["History 9"],
+    "fixed_group": false
+  },
+  {
+    "id": "c2",
+    "subject": "Math 10",
+    "students": 15,
+    "priority": 2,
+    "allowed_merge_with": ["Math 9"],
+    "not_allowed_with": [],
+    "fixed_group": false
+  },
+  {
+    "id": "c3",
+    "subject": "Science 9",
+    "students": 25,
+    "priority": 1,
+    "allowed_merge_with": ["Math 9"],
+    "not_allowed_with": [],
+    "fixed_group": false
+  },
+  {
+    "id": "c4",
+    "subject": "History 9",
+    "students": 45,
+    "priority": 3,
+    "allowed_merge_with": [],
+    "not_allowed_with": ["Math 9"],
+    "fixed_group": true
+  },
+  {
+    "id": "c5",
+    "subject": "Huge Class",
+    "students": 150,
+    "priority": 1,
+    "allowed_merge_with": [],
+    "not_allowed_with": [],
+    "fixed_group": false
+  }
+]

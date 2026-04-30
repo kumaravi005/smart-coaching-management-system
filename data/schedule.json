@@ -1,0 +1,32 @@
+[
+  {
+    "status": "unassigned",
+    "class": "Huge Class",
+    "students": 150,
+    "reason": "No teacher available for subject: Huge Class"
+  },
+  {
+    "status": "unassigned",
+    "class": "Science 9",
+    "students": 25,
+    "reason": "No teacher available for subject: Science 9"
+  },
+  {
+    "status": "unassigned",
+    "class": "Math 9",
+    "students": 20,
+    "reason": "No teacher available for subject: Math 9"
+  },
+  {
+    "status": "unassigned",
+    "class": "Math 10",
+    "students": 15,
+    "reason": "No teacher available for subject: Math 10"
+  },
+  {
+    "status": "unassigned",
+    "class": "History 9",
+    "students": 45,
+    "reason": "No teacher available for subject: History 9"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "r1",
+    "name": "Room 101",
+    "capacity": 30
+  },
+  {
+    "id": "r2",
+    "name": "Room 102",
+    "capacity": 50
+  },
+  {
+    "id": "df8c1545-2d12-4fb4-bd14-ed0f7a1a544f",
+    "name": "Room 103",
+    "capacity": 20
+  }
+]
